@@ -8,7 +8,7 @@ div.kc-logo-text {
 }
 
 .login-pf body {
-   border-top:  3px solid #199dde;
+   border-top:  3px solid #009bbf;
    background-image: none !important;
    background-size: cover;
    background-position: center center;
@@ -16,7 +16,7 @@ div.kc-logo-text {
 }
 
 .card-pf {
-  border: 1px solid #0088ce;
+  border: 1px solid #009bbf;
   border-radius: 5px;
 }
 
