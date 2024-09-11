@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: theme-copy-pod
+  name: theming-pod
   namespace: prod
 spec:
   containers:
